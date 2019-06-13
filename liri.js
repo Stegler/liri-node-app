@@ -7,25 +7,25 @@ var Spotify = require('node-spotify-api');
 var keys = require("./keys.js");
 var fs = require('fs');
 var spotify = new Spotify(keys.spotify);
-var input = process.argv[2];
-var searchType = process.argv.splice(3).join();
+var searchType = process.argv[2];
+var searchInput = process.argv.splice(3).join();
 
 // If else statements
 
 //OMDB//
-if (input === 'movie-this') {
-    movieThis(searchType);
+if (searchType === 'movie-this') {
+    movieThis(searchInput);
 }
 //BANDS IN  TOWN//
-else if (input === 'concert-this') {
-    concertThis(searchType);
+else if (searchType === 'concert-this') {
+    concertThis(searchInput);
 }
 //SPOTIFY//
-else if (input === 'spotify-this-song') {
-    spotifyTrack(searchType);
+else if (searchType === 'spotify-this-song') {
+    spotifyTrack(searchInput);
 }
-else if (input === 'do-what-it-says') {
-    doWhatItSays(searchType);
+else if (searchType === 'do-what-it-says') {
+    doWhatItSays(searchInput);
 }
 else {
     console.log('please choose a valid command');
@@ -96,10 +96,10 @@ function spotifyTrack(track) {
 
 };
 
-// Bands in town
+// Bands in town function
 function concertThis(concert) {
 
-    var concertQuery = concert || "'The Sign' by Ace of Base"
+    var concertQuery = concert || "'The Sign' by Ace of Base";
 
     axios.get("https://rest.bandsintown.com/artists/" + concertQuery + "/events?app_id=codingbootcamp").then(function (response) {
 
