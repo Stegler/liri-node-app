@@ -13,4 +13,4 @@ Create an application with Node.js that implements the user's input from a comma
 The application will include information retracted from API's to fufill the user's request in the commands line.
 The API calls will parse through JSON objects, and exporting the information in a self created format.
 
-<img src= Images/)
+<img src= "Images/concert-this.png">
