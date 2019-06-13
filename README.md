@@ -14,3 +14,5 @@ The application will include information retracted from API's to fufill the user
 The API calls will parse through JSON objects, and exporting the information in a self created format.
 
 <img src= "Images/concert-this.png">
+<img src= "Images/spotify-this-song.png">
+<img src= "Images/movie-this.png">
