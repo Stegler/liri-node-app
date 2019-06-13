@@ -848,3 +848,193 @@ Location: Cheyenne
 Date of Concert: 06/12/2019
 -----------------------------------------------------------
 
+Title: Gladiator
+
+Year: 2000
+
+imdb Rating: 8.5
+
+Country: USA, UK, Malta, Morocco
+
+Language: English
+
+Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+
+Cast: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+------------------------------------------------------------
+
+
+Artist: Toto,
+Track Name: Africa,
+Album Name: Toto IV,
+Preview Track: https://p.scdn.co/mp3-preview/dd78dafe31bb98f230372c038a126b8808f9349b?cid=615346ecbc8b4d539fe45fcb8bf60369
+-----------------------------------------------------------
+
+
+Artist: Weezer,
+Track Name: Africa,
+Album Name: Weezer (Teal Album),
+Preview Track: https://p.scdn.co/mp3-preview/fd50e613eafb6f28e2f98da86e2667c4cd0bc167?cid=615346ecbc8b4d539fe45fcb8bf60369
+-----------------------------------------------------------
+
+
+Artist: Shakira,
+Track Name: Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song],
+Album Name: Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground),
+Preview Track: https://p.scdn.co/mp3-preview/f01830f7be6c8b654d44c8f7a1f1d06756ab920f?cid=615346ecbc8b4d539fe45fcb8bf60369
+-----------------------------------------------------------
+
+
+Artist: Santana,
+Track Name: Africa Speaks,
+Album Name: Africa Speaks,
+Preview Track: null
+-----------------------------------------------------------
+
+
+Artist: Bob Marley & The Wailers,
+Track Name: Africa Unite,
+Album Name: Survival,
+Preview Track: null
+-----------------------------------------------------------
+
+
+Venue Name: Huntington Bank Pavilion at Northerly Island
+
+
+Location: Chicago
+
+
+Date of Concert: 06/12/2019
+-----------------------------------------------------------
+
+
+Venue Name: Huntington Bank Pavilion at Northerly Island
+
+
+Location: Chicago
+
+
+Date of Concert: 06/12/2019
+-----------------------------------------------------------
+
+
+Venue Name: Cheyenne Frontier Days - Frontier Park
+
+
+Location: Cheyenne
+
+
+Date of Concert: 06/12/2019
+-----------------------------------------------------------
+
+
+Venue Name: Sioux Empire Fair
+
+
+Location: Sioux Falls
+
+
+Date of Concert: 06/12/2019
+-----------------------------------------------------------
+
+
+Venue Name: En-Joie Golf Course
+
+
+Location: Endicott
+
+
+Date of Concert: 06/12/2019
+-----------------------------------------------------------
+
+
+Venue Name: Hard Rock - Mark G Etess Arena
+
+
+Location: Atlantic City
+
+
+Date of Concert: 06/12/2019
+-----------------------------------------------------------
+
+
+Venue Name: Washington State Fair
+
+
+Location: Puyallup
+
+
+Date of Concert: 06/12/2019
+-----------------------------------------------------------
+
+
+Venue Name: Michigan International Speedway
+
+
+Location: Brooklyn
+
+
+Date of Concert: 06/12/2019
+-----------------------------------------------------------
+
+
+Venue Name: Kentucky Fair and Expo Center
+
+
+Location: Louisville
+
+
+Date of Concert: 06/12/2019
+-----------------------------------------------------------
+
+
+Venue Name: The Park at Harlinsdale Farm
+
+
+Location: Franklin
+
+
+Date of Concert: 06/12/2019
+-----------------------------------------------------------
+
+
+Venue Name: Choctaw Casino & Resort
+
+
+Location: Durant
+
+
+Date of Concert: 06/12/2019
+-----------------------------------------------------------
+
+
+Venue Name: WE Fest Country Music Festival at Soo Pass Ranch
+
+
+Location: Detroit Lakes
+
+
+Date of Concert: 06/12/2019
+-----------------------------------------------------------
+
+
+Venue Name: LaVell Edwards Stadium
+
+
+Location: Provo
+
+
+Date of Concert: 06/12/2019
+-----------------------------------------------------------
+
+
+Venue Name: Kentucky Fair and Expo Center
+
+
+Location: Louisville
+
+
+Date of Concert: 06/12/2019
+-----------------------------------------------------------
+
