@@ -21,5 +21,5 @@ Using the Spotify API to call information on songs using command line input "nod
 <img src= "Images/spotify-this-song.png">
 
 
-Using the OMDB API to call information on movies using command line input "node liri.js movie Gladiator"
+Using the OMDB API to call information on movies using command line input "node liri.js movie-this Gladiator"
 <img src= "Images/movie-this.png">
